@@ -1,0 +1,3 @@
+#godot #godotEssentials #programming 
+
+Essa nota está aqui para ajudar a explicar melhor como a função \_process funciona. Ela é uma função que é executada a cada frame da aplicação e recebe como parametro um valor delta. Delta é a quantidade de tempo que se passou desde que o ultimo frame foi completamente processado pela aplicação. Para um melhor entendimento olhar tutorial do Brackeys: https://youtu.be/LOhfqjmasi0?si=oKZfAygrbnWV5I0K&t=2662

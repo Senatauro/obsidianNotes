@@ -4,37 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "777c73cf4bfd4c49",
+        "id": "cd3dc1b45a63e3fb",
         "type": "tabs",
         "children": [
           {
-            "id": "cd0266da7dbcc334",
+            "id": "ffcff849840154fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Game Dev/Godot/Basico/GDScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "GDScript"
             }
-          }
-        ]
-      },
-      {
-        "id": "435f705919f2936a",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "81e289aea4c589f6",
+            "id": "6476cd3cfb2bc90e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Game Dev/Godot/Basico/Custom Signals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Custom Signals"
             }
           }
         ]
@@ -94,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "right": {
     "id": "74f70dcb075297e1",
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Game Dev/Godot/Basico/Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Node"
             }
           },
           {
@@ -177,15 +175,43 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "cd0266da7dbcc334",
+  "active": "ffcff849840154fe",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Game Dev/Godot/Basico/Custom Signals.md",
+    "Game Dev/Godot/Basico/Signal.md",
+    "Game Dev/Godot/Basico/_process.md",
+    "Game Dev/Godot/Basico/GDScript.md",
+    "Game Dev/Godot/Basico/Instance.md",
+    "Game Dev/Godot/Basico/Built-in Class Reference.md",
+    "Game Dev/Godot/Basico/Scripts.md",
+    "Game Dev/Godot/Avançado/Multiplayer.md",
+    "Game Dev/Godot/Avançado",
+    "Game Dev/Godot/Basico/Scene.md",
+    "Game Dev/Godot/Basico/Node.md",
+    "Game Dev/Godot/Basico/Referencias.md",
+    "Pasted image 20250606113345.png",
+    "Game Dev/Godot/Basico/Scene e Nodes.md",
+    "Notas aleatórias/1 - Começando a aprender Godot.md",
+    "Game Dev/Godot/Godot.md",
+    "Untitled.canvas",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Game Dev/Godot/Basico",
+    "Welcome.md",
+    "Notas aleatórias",
+    "Game Dev/Godot",
+    "Game Dev"
   ]
 }
